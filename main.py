@@ -7,5 +7,5 @@ def calcular_raiz_cuadrada(number):
 
 number = float(input("Type a number to calculate its square root: "))
 
-result = calcular_raiz_cuadrada(number)
+result = calculate_square_root(number)
 print(result)
