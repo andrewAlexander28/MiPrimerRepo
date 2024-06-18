@@ -1,5 +1,5 @@
 import math
-def calcular_raiz_cuadrada(number):
+def calculate_square_root(number):
     if number >= 0:
         return math.sqrt(number)
     else:
